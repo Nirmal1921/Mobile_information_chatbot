@@ -8,16 +8,19 @@ pip package manager
 Installation:
 
 Create and activate a virtual environment (recommended):
-bashCopypython -m venv phone_chatbot_env
+bash
+Copy python -m venv phone_chatbot_env
 source phone_chatbot_env/bin/activate   # On Windows: phone_chatbot_env\Scripts\activate
 
 Install required packages:
-bashCopypip install requests beautifulsoup4 transformers torch numpy
+bash
+Copy pip install requests beautifulsoup4 transformers torch numpy
 
 Save the code:
 Save the provided Python code as Chatbot_Mobile_Details.py
 Run the chatbot:
-bashCopypython Chatbot_Mobile_Details.py
+bash
+Copy python Chatbot_Mobile_Details.py
 
 
 Usage Examples:
